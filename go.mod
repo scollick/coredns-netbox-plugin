@@ -1,9 +1,9 @@
-module github.com/oz123/coredns-netbox-plugin
+module github.com/scollick/coredns-netbox-plugin
 
 go 1.15
 
 require (
-	github.com/caddyserver/caddy v1.0.5
+	github.com/coredns/caddy v1.0.5
 	github.com/coredns/coredns v1.7.0
 	github.com/imkira/go-ttlmap v2.0.0+incompatible
 	github.com/miekg/dns v1.1.29
